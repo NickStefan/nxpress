@@ -1,0 +1,8 @@
+{
+  "name": "nxpress",
+  "version": "0.0.0",
+  "description": "reimpliment express from scratch",
+  "main": "server.js",
+  "author": "",
+  "license": "ISC"
+}
