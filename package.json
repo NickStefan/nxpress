@@ -3,6 +3,21 @@
   "version": "0.0.0",
   "description": "reimpliment express from scratch",
   "main": "server.js",
-  "author": "",
-  "license": "ISC"
+  "author": "Nick Stefan",
+  "license": "ISC",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NickStefan/nxpress.git"
+  },
+  "bugs": {
+    "url": "https://github.com/NickStefan/nxpress/issues"
+  },
+  "homepage": "https://github.com/NickStefan/nxpress",
+  "dependencies": {
+    "node-inspector": "^0.7.4",
+    "path-to-regexp": "^1.0.1"
+  }
 }
