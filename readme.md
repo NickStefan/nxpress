@@ -11,6 +11,7 @@ I will be building an express like framework piece by piece, one commit at a tim
 	  * no non-routing middleware
 	  * lots of comments and annotations
 
+Still TODO:
 - [ ] request and response built in headers and status codes
 - [ ] middleware
 - [ ] view engine and static files
