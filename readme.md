@@ -1,5 +1,7 @@
 # nxpress
 
+Blog Post: http://www.nickstefan.net/blog/view/express-routing
+
 I will be building an express like framework piece by piece, one commit at a time, with comments and lots of annotations. There are tests beginning with 4th commit. Most of the commits/comments are best understood by starting with server.js and nxpress.js.
 
 - [x] 1st commit = not much
