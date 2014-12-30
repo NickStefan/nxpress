@@ -1,6 +1,8 @@
 # nxpress
 
-Blog Post: http://www.nickstefan.net/blog/view/express-routing
+I've changed this projects goals. Instead of finishing this repo out as the rest of this readme's goals state, I decided to just make a better blog post about the under the hood of the entire express framework. http://www.nickstefan.net/blog/view/express-under-the-hood
+
+The rest is wontfix:
 
 I will be building an express like framework piece by piece, one commit at a time, with comments and lots of annotations. There are tests beginning with 4th commit. Most of the commits/comments are best understood by starting with server.js and nxpress.js.
 
